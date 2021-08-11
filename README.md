@@ -85,7 +85,7 @@ Take a cup of warm drink and hop to our community!
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>🐍 Snake</b></a></td>
+	      <td><a href="https://github.com/Bobsukka/snake.py"><b>🐍 Snake</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Bobsukka/snake.py?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/Bobsukka/snake.py?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Bobsukka/snake.py?style=flat-square"/></td>
