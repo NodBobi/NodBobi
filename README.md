@@ -92,6 +92,14 @@ Take a cup of warm drink and hop to our community!
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Bobsukka/snake.py?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Bobsukka/snake.py?style=flat-square"/></td>
       </tr>
+      <tr>
+	      <td><a href="https://github.com/Bobsukka/Discord.js-v13-bot"><b>🤖 Djs v13 bot</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Bobsukka/Discord.js-v13-bot?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Bobsukka/Discord.js-v13-bot?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Bobsukka/Discord.js-v13-bot?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Bobsukka/Discord.js-v13-bot?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Bobsukka/Discord.js-v13-bot?style=flat-square"/></td>
+      </tr>
     </tbody>
   </table>
   <br />
