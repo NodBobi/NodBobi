@@ -25,7 +25,7 @@ const discord = "discord.gg/3T7yaK3GNA"
 console.log("Join " + discord)
 ```
 
-## Languages and Tools:
+## 🔨 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://camo.githubusercontent.com/ff2725410fd26b91a5539552d4c74e14a0ee6f83053f8c6b3d13815d1602188a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f76697375616c2d73747564696f2d636f64652d323031392e706e67" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -42,14 +42,14 @@ console.log("Join " + discord)
 <br />
 <br />
 
-## My Discord server
+## 🌙 My Discord server
 
 Take a cup of warm drink and hop to our community!
 
 [![Community](https://discordapp.com/api/guilds/855035045362663464/widget.png?style=banner2)](https://discord.gg/3T7yaK3GNA)
 
 
-## My github stats
+## 📊 My github stats
 <details>
   <summary><b>:zap: GitHub Stats</b></summary>
 
@@ -125,7 +125,7 @@ Take a cup of warm drink and hop to our community!
 	</ul>	
 </details>
   
-## Connect with me
+## :globe_with_meridians: Connect with me
   
 Discord: Bobi#5072
   
