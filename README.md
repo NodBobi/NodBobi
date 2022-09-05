@@ -16,9 +16,9 @@
 
 I'm Luke aka Bobi, you may have seen me on discord, but if you don’t then now at the latest you are. I love programming and i'm interested to web and game developement
 
-- 🔨 I'm currently working on a [this website](https://programmersdc.netlify.app)
-- 🌱 I'm currently learning HTML, CSS, Python and C#
-- 👀 I'm interested in Game and Web developement
+- 🔨 I'm currently working on nothing
+- 🌱 I'm currently learning python and linux
+- 👀 I'm interested in Cyber security
 - 🥅 My goal is to make more open source projects
 - 🧠 I'm losing my brain cells
 - 😄 Pronouns: He / Him
