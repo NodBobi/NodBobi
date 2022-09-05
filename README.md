@@ -120,17 +120,17 @@ Take a cup of warm drink and hop to our community!
   <br />
   <summary><b>⚙️ Things i use</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 10</li>
+  	    <li><b>OS:</b> Windows 10 on PC Ubuntu on laptop</li>
 	    <li><b>Pc: </b> Custom built pc</li>
-  	    <li><b>Browser: </b> Googe chrome</li>
-	    <li><b>Code Editor:</b> Visual Studio Code</li>
+  	    <li><b>Browser: </b> Firefox</li>
+	    <li><b>Code Editor:</b> Visual Studio Code and PyCharm</li>
 	    <br />
 	</ul>	
 </details>
   
 ## :globe_with_meridians: Connect with me
   
-Discord: Bobi#5072
+Discord: Bobi#1204
   
 [My discord server](https://discord.gg/3T7yaK3GNA)
   
