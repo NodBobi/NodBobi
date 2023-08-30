@@ -1,5 +1,5 @@
 
-<h3 align="center">Hey there, I'm <a href="https://discord.gg/3T7yaK3GNA">Bobi.</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
+<h3 align="center">Hey there, I'm <a href="https://discord.gg/3T7yaK3GNA">Luukas.</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 <p align="center">
 <a href="https://www.buymeacoffee.com/programmerluke"><img alt="buymeacoffee" title="buymeacoffee" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="150px"/>
 	</a>
@@ -12,10 +12,9 @@ I'm Luke aka Bobi, you may have seen me on discord, but if you don’t then now 
 
 - 🔨 I'm currently working on nothing
 - 🌱 I'm currently learning fullstack development
-- 👀 I'm interested in Cyber security
+- 👀 I'm interested in tech 
 - 😄 Pronouns: He / Him
 
-<br/>
 <hr/>
 <details>
 	<ul>
@@ -32,7 +31,7 @@ I'm Luke aka Bobi, you may have seen me on discord, but if you don’t then now 
   
 ## :globe_with_meridians: Connect with me
   
-Discord: Bobi#1204
+Discord: realbobi
   
 ----
 
