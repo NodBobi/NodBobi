@@ -1,9 +1,4 @@
 
-<div align="center">
-<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
-</div>
-
-
 <h3 align="center">Hey there, I'm <a href="https://discord.gg/3T7yaK3GNA">Bobi.</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 <p align="center">
   <a href="https://discord.gg/3T7yaK3GNA"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="125px" />
@@ -21,16 +16,17 @@ I'm Luke aka Bobi, you may have seen me on discord, but if you don’t then now 
 - 👀 I'm interested in Cyber security
 - 😄 Pronouns: He / Him
 
-
+<br/>
+<hr/>
 <details>
 	<ul>
   <br />
   <summary><b>⚙️ Things i use</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 10 on PC Ubuntu on laptop</li>
+  	    <li><b>OS:</b> Windows 10 on PC, !Pop_OS on laptop</li>
 	    <li><b>Pc: </b> Custom built pc</li>
   	    <li><b>Browser: </b> Firefox</li>
-	    <li><b>Code Editor:</b> Visual Studio Code and PyCharm</li>
+	    <li><b>Code Editor:</b> Visual Studio Code</li>
 	    <br />
 	</ul>	
 </details>
