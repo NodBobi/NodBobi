@@ -8,7 +8,7 @@
 
 ## Hello world! 👋
 
-I'm Luke aka Bobi, you may have seen me on discord, but if you don’t then now at the latest you are. I love programming and i'm interested to web and game developement
+Hello there, i'm Luukas also known as Bobi. I am 17 year old high-school student from Finland. I love programming and i am currently learning fullstack development. I love learning new technologies and i'm into tech in general. It was nice meeting you!
 
 - 🔨 I'm currently working on nothing
 - 🌱 I'm currently learning fullstack development
